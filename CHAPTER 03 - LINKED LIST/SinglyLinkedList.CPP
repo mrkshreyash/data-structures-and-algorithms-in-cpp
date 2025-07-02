@@ -97,6 +97,80 @@ void insertAtPosition(Node *&head, int value, int position)
     temp->next = newNode;
 }
 
+void deleteHead(Node *&head)
+{
+    if (head == nullptr)
+    {
+        std::cout << "The list is empty." << std::endl;
+
+        return;
+    }
+
+    Node *temp = head;
+    head = head->next;
+
+    std::cout << "Deleted " << temp->data << " from the list." << std::endl;
+    delete temp;
+    return;
+}
+
+void deleteTail(Node *&head)
+{
+    if (head == nullptr)
+    {
+        std::cout << "The list is empty." << std::endl;
+        return;
+    }
+
+    if (head->next == nullptr)
+    {
+        std::cout << "Deleted " << head->data << " from the list." << std::endl;
+        delete head;
+        head = nullptr;
+        return;
+    }
+
+    Node *temp = head;
+
+    while (temp->next->next != nullptr)
+    {
+        temp = temp->next;
+    }
+
+    std::cout << "Deleted " << temp->next->data << " from the list." << std::endl;
+    delete temp->next;
+    temp->next = nullptr;
+    return;
+}
+
+void deleteAtPosition(Node *&head, int position)
+{
+    if (position == 1)
+    {
+        deleteHead(head);
+        return;
+    }
+
+    Node *temp = head;
+
+    for (int i = 1; i < position - 1 & temp->next != nullptr; i++)
+    {
+        temp = temp->next;
+    }
+
+    if (temp == nullptr)
+    {
+        std::cout << "The list is emtpy." << std::endl;
+        return;
+    }
+
+    Node *deleteNode = temp->next;
+    temp->next = deleteNode->next;
+    std::cout << "Deleted " << deleteNode->data << " from position " << position << " in the list." << std::endl;
+    delete deleteNode;
+    return;
+}
+
 int main()
 {
     Node *head = nullptr;
@@ -105,7 +179,11 @@ int main()
     insertAtBeginning(head, 6);
     insertAtBeginning(head, 7);
     insertAtEnd(head, 8);
-    insertAtPosition(head, 9, 10);
+    printList(head);
+    // insertAtPosition(head, 9, 10);
+    // deleteHead(head);
+    // deleteTail(head);
+    deleteAtPosition(head, 2);
     printList(head);
 
     return 0;
