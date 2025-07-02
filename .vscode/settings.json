@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "01_Fibbonacci_Series.C": "cpp",
-        "02_Factorial.C": "cpp",
-        "iostream": "cpp",
-        "istream": "cpp",
-        "ostream": "cpp"
-    }
-}
