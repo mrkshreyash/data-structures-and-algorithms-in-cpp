@@ -18,7 +18,8 @@ We appreciate the time, skills, and energy shared to make this project better.
 
 | GitHub Username | Contribution |
 |-----------------|--------------|
-| [@bob-codes](https://github.com/SHISKEBAB) | Readme file for this repository |
+| [@SHISKEBAB](https://github.com/SHISKEBAB) | Readme.md file for this repository |
+| [@A-Rohit-Reddy](https://github.com/A-Rohit-Reddy) | Contributors.md file for this repository |
 
 > This list is updated regularly. If you contributed and don’t see your name here, feel free to open a pull request!
 
