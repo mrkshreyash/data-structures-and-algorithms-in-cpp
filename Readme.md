@@ -177,7 +177,7 @@ We welcome contributions from developers and learners alike!
 - Fork the repository and clone it to your machine
 - Create a new branch for your feature or fix
 - Follow the existing naming and commenting conventions
-- Make your changes and commit them with meaningful messages
+- Make your changes and commit them with meaningful messages. (Kindly, mention your id in commit.)
 - Push and open a Pull Request with a clear description of your contribution
 
 ### Code Standards
