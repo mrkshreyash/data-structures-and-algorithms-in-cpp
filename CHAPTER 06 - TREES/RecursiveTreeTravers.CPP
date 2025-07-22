@@ -12,9 +12,6 @@ Node *buildTree()
 {
     int value;
 
-    // cout << " ==> Build tree by entering just values <== \n"
-    //      << endl;
-
     cout << "\nEnter value (-1 for Null) : ";
     cin >> value;
 
@@ -74,6 +71,9 @@ void postOrder(Node *root)
 
 int main()
 {
+
+    cout << " ==> Build tree by entering just values <== \n"
+         << endl;
 
     Node *root = buildTree();
 
