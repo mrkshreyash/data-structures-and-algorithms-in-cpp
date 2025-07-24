@@ -168,6 +168,65 @@ cd data-structures-and-algorithms-in-cpp
 
 ---
 
+### [CHAPTER 05 – QUEUES](https://github.com/mrkshreyash/data-structures-and-algorithms-in-cpp/tree/main/CHAPTER%2005%20-%20QUEUES)
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>File</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><code>SimpleCircularQueue.cpp</code></td>
+      <td>
+        Circular queue with fixed array size.
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><code>	DynamicCircularQueue.cpp</code></td>
+      <td>
+        Dynamically resizing circular queue using <code>vector</code>.
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><code>LinkedListQueue.cpp</code></td>
+      <td>
+        Queue implemented with linked list (front-rear).
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### [CHAPTER 06 – BINARY TREES](https://github.com/mrkshreyash/data-structures-and-algorithms-in-cpp/tree/main/CHAPTER%2006%20-%20TREES)
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>File</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><code>BinaryTreeTraversal.cpp</code></td>
+      <td>
+        Builds a binary tree using user input and supports </br> Preorder, Inorder, and Postorder traversals.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 ## Contributing Guidelines
 
 We welcome contributions from developers and learners alike!

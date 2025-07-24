@@ -9,6 +9,7 @@ A heartfelt thank you to all the developers, learners, and contributors who have
 | Name               | GitHub Profile                                 | Responsibilities                                                           |
 | ------------------ | ---------------------------------------------- | -------------------------------------------------------------------------- |
 | Shreyash A. Kamble | [@mrkshreyash](https://github.com/mrkshreyash) | Repository creator, C++ implementation, core logic, roadmap, documentation |
+| Shishir S.Tambe | [@SHISKEBAB](https://github.com/SHISKEBAB) | Technical Writer, Documentation maintainer, GIT, Markdown, Technical docs |
 
 ---
 
@@ -49,6 +50,6 @@ Let’s build an inclusive space for learning together. 🌱
 | S.No | Name / GitHub Handle                           | Contribution Summary                                        |
 | ---- | ---------------------------------------------- | ----------------------------------------------------------- |
 | 1    | [@mrkshreyash](https://github.com/mrkshreyash) | Initial codebase and DSA implementation from scratch. |
-| 2    | _You?_                                         | Submit a PR to be listed here!                              |
+| 2    | [@SHISKEBAB](https://github.com/SHISKEBAB)  | Added my name to contributor's list #6                              |
 
 ---
