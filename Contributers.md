@@ -9,6 +9,7 @@ A heartfelt thank you to all the developers, learners, and contributors who have
 | Name               | GitHub Profile                                 | Responsibilities                                                           |
 | ------------------ | ---------------------------------------------- | -------------------------------------------------------------------------- |
 | Shreyash A. Kamble | [@mrkshreyash](https://github.com/mrkshreyash) | Repository creator, C++ implementation, core logic, roadmap, documentation |
+| Shishir S.Tambe | [@SHISKEBAB](https://github.com/SHISKEBAB) | Technical Writer, Documentation maintainer, GIT, Markdown, Technical Docs |
 
 ---
 
