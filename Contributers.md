@@ -50,6 +50,6 @@ Let’s build an inclusive space for learning together. 🌱
 | S.No | Name / GitHub Handle                           | Contribution Summary                                        |
 | ---- | ---------------------------------------------- | ----------------------------------------------------------- |
 | 1    | [@mrkshreyash](https://github.com/mrkshreyash) | Initial codebase and DSA implementation from scratch. |
-| 2    | _You?_                                         | Submit a PR to be listed here!                              |
+| 2    | [@SHISKEBAB](https://github.com/SHISKEBAB)  | Added my name to contributor's list #6                              |
 
 ---
