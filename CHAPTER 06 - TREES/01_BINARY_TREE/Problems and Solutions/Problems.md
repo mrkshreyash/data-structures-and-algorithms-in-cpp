@@ -6,6 +6,6 @@ This file contains a list of all problems in the `problems/` directory, with sho
 
 | Problem ID     | Link                                               | Description                                                                                      |
 | -------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 01_Max_Element | [Max_Element_In_Binary_Tree](/Problems and Solutions/01_Max_Element.CPP/) | Given an algorithm for finding maximum element in binary tree using Recursively and Iteratively. |
+| 01_Max_Element | [Max_Element_In_Binary_Tree](CHAPTER 06 - TREES/01_BINARY_TREE/Problems and Solutions/01_Max_Element.CPP) | Given an algorithm for finding maximum element in binary tree using Recursively and Iteratively. |
 
 > Total: 1 problems
